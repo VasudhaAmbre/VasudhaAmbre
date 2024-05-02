@@ -1,6 +1,3 @@
-Here's a complete, revised version of your GitHub README file incorporating the earlier suggestions:
-
-```markdown
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Vasudha Sunil Ambre</h1>
 <h3 align="center">Passionate about harnessing the power of data to solve real-world problems.</h3>
@@ -51,6 +48,3 @@ Here's a complete, revised version of your GitHub README file incorporating the 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudhaambre&show_icons=true&locale=en" alt="vasudhaambre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasudhaambre&" alt="vasudhaambre" /></p>
-```
-
-This version refines your original content and adds some new elements to enhance your GitHub profile's appeal and informational value.
